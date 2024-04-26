@@ -180,7 +180,7 @@ footer:
 #
 # grid_items_size: <small|medium|large>
 #
-grid_items_size: medium
+grid_items_size: small
 
 # Groups (optional)
 #
